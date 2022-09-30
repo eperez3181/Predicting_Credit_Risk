@@ -11,3 +11,5 @@ A comparison was made between the Logistic Regression model and Random Forest Cl
 * Created a Random Forest Classifier model, fit it to the data, and printed the model's score
 * Wrote results and compared results to prediction
 ![image](https://user-images.githubusercontent.com/98370960/193229016-00f1f500-9e79-46d0-9bb6-4c963c78d8b5.png)
+![image](https://user-images.githubusercontent.com/98370960/193229667-8e239605-ede6-4068-b317-1c32ee83b145.png)
+![image](https://user-images.githubusercontent.com/98370960/193229921-7a807acf-ffe2-4ea4-8d77-cd2e58707090.png)
