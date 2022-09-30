@@ -1,7 +1,7 @@
-# Predicting Credit Risk with Supervised Machine Learning
+# Predicting Credit Risk 
 
 ## Background
-In this assignment a machine learning model was built to attempt to predict whether a loan would be approved or not.
+A machine learning model was built to attempt to predict whether a loan would be approved or not.
 A comparison was made between the Logistic Regression model and Random Forest Classifier. 
 
 ## Steps
